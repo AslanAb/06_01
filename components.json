@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "car1",
+        "model": "<h1>TOYOTA</h1>",
+        "year": "<p>2022 year</p>",
+        "img": "<img src=\"https://motor.ru/thumb/1816x0/filters:quality(75):no_upscale()/imgs/2022/07/15/09/5495653/75da2585371b27f5b7837728f102dd026c3763cd.jpg\">",
+        "styles": "h1{\n  color:red;\n  font-size:40px;\n}\np{\n  font-size:30px;\n  color:white\n}\nimg{\n  width:250px;\n  height:250px;\n}\nbody{\n  background-color: black;\n  display: flex;\n  align-item: center;\n  flex-direction: column;\n  align-items: center;\n}"
+    },
+    {
+        "id": 2,
+        "name": "car2",
+        "model": "<h1>KIA</h1>",
+        "year": "<p>2020 year</p>",
+        "img": "<img src=\"https://avatars.mds.yandex.net/get-autoru-vos/2172060/93e05f7f50e6b68a6849fa79741d76f1/456x342\">",
+        "styles": "h1{\n  color:red;\n  font-size:40px;\n}\np{\n  font-size:30px;\n  color:white\n}\nimg{\n  width:250px;\n  height:250px;\n}\nbody{\n  background-color: black;\n  display: flex;\n  align-item: center;\n  flex-direction: column;\n  align-items: center;\n}"
+    }
+]
